@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4Srt/sp+nzLu473jBsUkXlhmRcdsR8Ke2BS9we0+NV0jKmNSs+AfP972kBWL9/R/0z8NK06oeNYG7c0+iqYAaQ==",
+  "dgSpecHash": "KuvckTOK4MfyZh6xwq3pbCrORz/BrMQfxi96GwH0smTvPr9YrJnUV7upYYBEHwioJlEaw0KsdDvEx0w5gOwTIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\elsvi\\repos\\Operators-Exercise\\OperatorExercise\\OperatorExercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\elsvi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\elsvi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\elsvi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\elsvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
